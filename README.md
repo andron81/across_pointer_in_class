@@ -1,0 +1,1 @@
+# across_pointer_in_class
